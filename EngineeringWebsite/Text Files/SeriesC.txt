@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Units</title>
+	<meta charset="UTF-8">
+	<link href="style_blog.css" text="text/css" rel="stylesheet" />
+</head>
+
+<style>
+	h1{
+	 margin: 20px;
+	color:blue;
+	}
+
+
+</style>
+<body>
+	<div id="nav" >
+			<ul>
+			<li><a href="Home_blog.html">Home</a></li>
+			<li><a class="active" href="Intro_blog.html">Units</a></li>
+			<li><a href="About_blog.html">About</a></li>
+			<li style= "float: right;"><a href="Contact_blog.html">Contact</a></li>
+			</ul>
+	</div>
+
+	<div id="units" style="padding: 50px 0px 0px 0px">
+	<ul class="scroll">
+		<li ><h1> UNITS</h1></li>
+		<li style="padding: 0px 0px 10px 7px" ><b>Programming</b></li>
+		<li><a  href="Hour.html">Hour Of Code</a></li>
+		<li><a href="Scratch.html">Scratch</a></li>
+		<li><a href="Python.html">Python</a></li>
+		<li><a href="Turtle.html">Turtle</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Basic Electronics</b></a></li>
+		<li><a href="EngineeringN.html">Engineering Notation</a></li>
+		<li><a class="active1" href="SeriesC.html">Series Curcuit</a></li>
+		<li><a href="Parallel.html">Parallel Circuits</a></li>
+		<li><a href="P-SC.html">Series and Parallel Circuits</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Interfacing</b></li>
+		<li><a href="Interfacing.html">Finch robot</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Digital Electronics</b></li>
+		<li><a href="NumberS.html">Numbering Systems</a></li>
+		<li><a href="LogicG.html">Logic Gates</a></li>
+		<li><a href="BooleanA.html">Boolean Algebra</a></li>
+		<li><a href="TruthT.html">Truth Tables</a></li>
+		<li><a href="Kmaps.html">K-maps</a></li>
+		<li><a href="Applications.html">Applications</a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b> Traffic Light</b></li>
+	<li><a href="TrafficL.html">Traffic Light</a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b> Web 2.0 </b></li>
+	<li><a href="HTMLandCSS.html"> HTML and CSS </a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b>Reflections and Daily Log</b> </li>
+	<li><a href="Highlights.html"> Highlights </a></li>
+	<li><a href="Benefits.html"> Benefits </a></li>
+<br>
+	</ul>
+	</div>
+
+	<div>
+		<h1 id="heading"> <center>SERIES CIRCUITS</center></h1>
+		<br>
+		<h id="subH"><b>What is Series circuits?</b></h>
+		<p id="one">A series circuit is a circuit where there is only one path
+			from the source through all of the loads and back to the source. This
+			means that all of the current in the circuit must flow through all of
+			the loads. One example of a series circuit is a string of old Christmas
+			lights.</p>
+		<br>
+		<img style="padding-left:370px;" src="SeriesC.png" alt="Series Circuits" width="500" height="250" >
+
+		<br><br><br>
+		<h id="subH"><b>Experience:</b></h>
+		<p id="one">Series circuits are really simple to understand actually,
+			calculations are really simple, there are just some key points to remember
+			 like current always stays the same throughout the circuit and the total
+			 voltage is the total of other voltage drops, the total resistance is the total
+			 of other resistance. The formulas are really easy to learn as well as
+			 they are related to each other and you can use algebra to isolate variable.
+			 Algebra is my favourite part about math, so I don’t mind isolating stuff. </p>
+
+	</div>
+
+</body>
+</html>

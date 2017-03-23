@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Units</title>
+	<meta charset="UTF-8">
+	<link href="style_blog.css" text="text/css" rel="stylesheet" />
+</head>
+
+<style>
+	h1{
+	 margin: 20px;
+	color:blue;
+	}
+
+</style>
+<body>
+	<div id="nav" >
+			<ul>
+			<li><a href="Home_blog.html">Home</a></li>
+			<li><a class="active" href="Intro_blog.html">Units</a></li>
+			<li><a href="About_blog.html">About</a></li>
+			<li style= "float: right;"><a href="Contact_blog.html">Contact</a></li>
+			</ul>
+	</div>
+
+	<div id="units" style="padding: 50px 0px 0px 0px">
+	<ul class="scroll">
+		<li ><h1> UNITS</h1></li>
+		<li style="padding: 0px 0px 10px 7px" ><b>Programming</b></li>
+		<li><a href="Hour.html">Hour Of Code</a></li>
+		<li><a href="Scratch.html">Scratch</a></li>
+		<li><a href="Python.html">Python</a></li>
+		<li><a href="Turtle.html">Turtle</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Basic Electronics</b></a></li>
+		<li><a href="EngineeringN.html">Engineering Notation</a></li>
+		<li><a href="SeriesC.html">Series Curcuit</a></li>
+		<li><a href="Parallel.html">Parallel Circuits</a></li>
+		<li><a href="P-SC.html">Series and Parallel Circuits</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Interfacing</b></li>
+		<li><a href="Interfacing.html">Finch robot</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Digital Electronics</b></li>
+		<li><a href="NumberS.html">Numbering Systems</a></li>
+		<li><a href="LogicG.html">Logic Gates</a></li>
+		<li><a href="BooleanA.html">Boolean Algebra</a></li>
+		<li><a href="TruthT.html">Truth Tables</a></li>
+		<li><a href="Kmaps.html">K-maps</a></li>
+		<li><a  href="Applications.html">Applications</a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b> Traffic Light</b></li>
+	<li><a class="active1" href="TrafficL.html">Traffic Light</a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b> Web 2.0 </b></li>
+	<li><a href="HTMLandCSS.html"> HTML and CSS </a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b>Reflections and Daily Log</b> </li>
+	<li><a href="Highlights.html"> Highlights </a></li>
+	<li><a href="Benefits.html"> Benefits </a></li>
+	<br>
+	</ul>
+	</div>
+
+	<div>
+		<h1  id="heading"> <center>TRAFFIC LIGHT</center></h1>
+		<br>
+			<p id="one" style="color: #ff6f85;">Truth Table and Boolean Equation:</p>
+		<img style="padding-left:370px;" src="TrafficTB.JPG" alt="TruthTable and Boolean Equation">
+		<p id="one" style="color: #ff6f85;"> All inputs are 'zero' so the all the lights are OFF</p>
+		<img style="padding-left:370px;" src="TrafficNo.JPG" alt="No Lights" width="500" height="350">
+		<p id="one" style="color: #ff6f85;">First input is 'one' so Red Light (first) is ON</p>
+		<img style="padding-left:370px;" src="TrafficRed.JPG" alt="Red Light" width="500" height="350" >
+		<p id="one" style="color: #ff6f85;">Second input is 'one' so Yellow Light (Second) is ON</p>
+		<img style="padding-left:370px;" src="TrafficYellow.JPG" alt="Yellow Light" width="500" height="350" >
+		<p id="one" >Third input is 'one' so Green Light (Third) is ON</p>
+		<img style="padding-left:370px;" src="TrafficGreen.JPG" alt="Green Light" width="500" height="350" >
+		<p id="one" >All three inputs are 'one' so all lights are OFF</p>
+		<img style="padding-left:370px;" src="TrafficNo2.JPG" alt="No Light" width="500" height="350" >
+		<p id="one">Two inputs are 'one' so all lights are OFF</p>
+		<img style="padding-left:370px;" src="TrafficNo3.JPG" alt="No Light" width="500" height="350" >
+
+		<br><br><br>
+		<h id="subH"><b>Experience:</b></h>
+		<p id="one">
+			Traffic Light assignment was really easy, first I thought we actually have
+			to make it using circuits (I wanted to make an actual circuits and with LED’s)
+			but we just had to make a simulation using logic gates. For the assignment
+			I made the truth table first, then I made the equation and I made the Logic
+			Diagram using <a href="http://logic.ly/"> LOGICLY</a>. The diagram itself was
+			not hard to make, I tried to simplify the equation but it was not possible.
+			I took screenshots of the Logic Diagram with different inputs to show how the
+			logic gates work in a traffic light.
+		</p>
+
+	</div>
+</body>
+</html>
