@@ -18,7 +18,7 @@
 <body>
 	<div id="nav" >
 			<ul>
-			<li><a href="Home_blog.html">Home</a></li>
+			<li><a href="index.html">Home</a></li>
 			<li><a class="active" href="Intro_blog.html">Units</a></li>
 			<li><a href="About_blog.html">About</a></li>
 			<li style= "float: right;"><a href="Contact_blog.html">Contact</a></li>
@@ -87,7 +87,7 @@
 		<p id="one">HTML and CSS are really easy to use. I worked in HTML and CSS
 			before, really briefly, I just knew the basic stuff. We learnt HTML and
 			CSS from Little Web Hut and
-			<a href= "http://www.w3schools.com/"> W3School </a>. To code the website, I used a software
+			<a href=ï¿½ "http://www.w3schools.com/"> W3School </a>. To code the website, I used a software
 			called <a href="https://atom.io/">ATOM</a> to code the website, it color
 			coded most of the stuff, so it was really easy to differentiate between lines as it can get really
 			confusing. Atom also had tabs so it wasnâ€™t hard to switch between pages,
