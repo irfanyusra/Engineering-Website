@@ -1,0 +1,141 @@
+body{
+	padding: 0;
+	margin: 0;
+	overflow-y: scroll;
+	background-image: url(bg1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#nav{
+	background-color: #444;
+	margin: 0 auto;
+	text-align: left;
+
+	font-family: Arial;
+	font-size: 120%;
+}
+
+#nav ul{
+
+	list-style-type: none;
+	padding:0;
+	margin: 0;
+	position: relative;
+}
+
+
+#nav ul {
+   width: 100%;
+  background-color: #444;
+   position: fixed;
+}
+
+.scroll {
+		overflow:scroll;
+		height: 95%;
+}
+
+#nav ul li{
+	display: inline-block;
+}
+
+li a.active {
+    background-color: #69c0ff;
+    color: white;
+}
+
+li a.active1 {
+    background-color: #69c0ff;
+    color: white;
+}
+
+#nav ul li a,visited{
+	color: #ccc;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+#units ul li{ /* for the units on the unit tab*/
+	list-style-type: none;
+
+	}
+
+#nav ul li a:hover{
+	color: #ccc;
+	text-decoration: none;
+}
+
+#nav ul li:hover ul{
+	display: block;
+}
+
+#nav li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+#units	ul {
+	    list-style-type: none;
+	    margin: 0;
+	    padding:0px;
+	    width: 20%;
+			font-family: Arial;
+			font-size: 120%;
+	    background-color: #f1f1f1;
+			position: fixed;
+	}
+
+#units	li a {
+	    display: block;
+	    color: #000;
+	    padding: 4px 0 5px 2px;
+	    text-decoration: none;
+	}
+
+#units	li a:hover {
+    background-color: #555;
+    color: white;
+	}
+
+#units ul li {
+ padding: 0px 0px 0px 7px;
+
+	}
+#heading{
+		color: #b2001b;
+			font-family: Britannic Bold;
+			font-size: 70px;
+		}
+#one {
+
+			 padding-top: 10px;
+				padding-right: 30px;
+				padding-bottom: 0px;
+				padding-left: 30%;
+				font-family:forte;
+				font-size: 30px;
+				color:#23e882 ;
+/*color:#BC00BC;*/
+/*color:#2592FF;*/
+		}
+#subH {
+
+				padding-top: 50px;
+				padding-right: 30px;
+				padding-bottom: 50px;
+				padding-left: 25%;
+				font-family: Stencil;
+				font-size: 40px;
+				color: #ff6f85;
+		}
+#caption{
+	padding-top: 0px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-left: 37%;
+	font-family: cursive;;
+	font-size: 20px;
+
+}

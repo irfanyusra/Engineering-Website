@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Units</title>
+	<meta charset="UTF-8">
+	<link href="style_blog.css" text="text/css" rel="stylesheet" />
+</head>
+
+<style>
+	h1{
+	 margin: 20px;
+	color:blue;
+	}
+
+</style>
+<body>
+	<div id="nav" >
+			<ul>
+			<li><a href="Home_blog.html">Home</a></li>
+			<li><a class="active" href="Intro_blog.html">Units</a></li>
+			<li><a href="About_blog.html">About</a></li>
+			<li style= "float: right;"><a href="Contact_blog.html">Contact</a></li>
+			</ul>
+	</div>
+
+	<div id="units" style="padding: 50px 0px 0px 0px">
+		<ul class="scroll">
+			<li ><h1> UNITS</h1></li>
+			<li style="padding: 0px 0px 10px 7px" ><b>Programming</b></li>
+			<li><a  href="Hour.html">Hour Of Code</a></li>
+			<li><a href="Scratch.html">Scratch</a></li>
+			<li><a href="Python.html">Python</a></li>
+			<li><a class="active1" href="Turtle.html">Turtle</a></li>
+
+			<li style="padding: 10px 0px 10px 7px" ><b>Basic Electronics</b></a></li>
+			<li><a href="EngineeringN.html">Engineering Notation</a></li>
+			<li><a href="SeriesC.html">Series Curcuit</a></li>
+			<li><a href="Parallel.html">Parallel Circuits</a></li>
+			<li><a href="P-SC.html">Series and Parallel Circuits</a></li>
+
+			<li style="padding: 10px 0px 10px 7px" ><b>Interfacing</b></li>
+			<li><a href="Interfacing.html">Finch robot</a></li>
+
+			<li style="padding: 10px 0px 10px 7px" ><b>Digital Electronics</b></li>
+			<li><a href="NumberS.html">Numbering Systems</a></li>
+			<li><a href="LogicG.html">Logic Gates</a></li>
+			<li><a href="BooleanA.html">Boolean Algebra</a></li>
+			<li><a href="TruthT.html">Truth Tables</a></li>
+			<li><a href="Kmaps.html">K-maps</a></li>
+			<li><a href="Applications.html">Applications</a></li>
+
+			<li style="padding: 10px 0px 10px 7px" ><b> Traffic Light</b></li>
+			<li><a href="TrafficL.html">Traffic Light</a></li>
+
+			<li style="padding: 10px 0px 10px 7px" ><b> Web 2.0 </b></li>
+			<li><a href="HTMLandCSS.html"> HTML and CSS </a></li>
+
+			<li style="padding: 10px 0px 10px 7px" ><b>Reflections and Daily Log</b> </li>
+			<li><a href="Highlights.html"> Highlights </a></li>
+			<li><a href="Benefits.html"> Benefits </a></li>
+			<br>
+		</ul>
+	</div>
+
+	<div>
+		<h1 id="heading"> <center>TURTLE</center></h1>
+		<br>
+		<h id="subH"><b>What is Turtle?</b></h>
+		<p id="one">Turtle graphics is a term in computer graphics vector
+			graphics using a relative cursor (the "turtle") upon a Cartesian plane.
+			Turtle graphics is a key feature of the Logo programming language.</p>
+		<br>
+		<img style="padding-left:370px;" src="TurtleP.JPG" alt="WinterScene" width="500" height="250" >
+`		<p id="caption">Winter Scene<p>
+		<br><br><br>
+		<h id="subH"><b>Experience:</b></h>
+		<p id="one">Turtle was one of my favourite things in this course as we
+			could be creative. Our class had to make a winter scene using turtle
+			commands and animate some aspects of it. I made a whole scenery and
+			animated a bunch of stuff, like I made my snowman wink, I made snowflakes
+			fall, the snowman on the sledge went across the screen and the smoke from
+			the cabin was animated. I learnt a lot from turtle, like using for loops
+			and stuff. The best thing about doing this project was logic and math,
+			math was one of the main things because a lot if angles were used.   </p>
+<br><br>
+	</div>
+
+</body>
+</html>

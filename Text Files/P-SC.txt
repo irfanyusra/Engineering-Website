@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Units</title>
+	<meta charset="UTF-8">
+	<link href="style_blog.css" text="text/css" rel="stylesheet" />
+</head>
+
+<style>
+	h1{
+	 margin: 20px;
+	color:blue;
+	}
+
+
+</style>
+<body>
+	<div id="nav" >
+			<ul>
+			<li><a href="Home_blog.html">Home</a></li>
+			<li><a class="active" href="Intro_blog.html">Units</a></li>
+			<li><a href="About_blog.html">About</a></li>
+			<li style= "float: right;"><a href="Contact_blog.html">Contact</a></li>
+			</ul>
+	</div>
+
+	<div id="units" style="padding: 50px 0px 0px 0px">
+	<ul class="scroll">
+		<li ><h1> UNITS</h1></li>
+		<li style="padding: 0px 0px 10px 7px" ><b>Programming</b></li>
+		<li><a  href="Hour.html">Hour Of Code</a></li>
+		<li><a href="Scratch.html">Scratch</a></li>
+		<li><a href="Python.html">Python</a></li>
+		<li><a href="Turtle.html">Turtle</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Basic Electronics</b></a></li>
+		<li><a href="EngineeringN.html">Engineering Notation</a></li>
+		<li><a href="SeriesC.html">Series Curcuit</a></li>
+		<li><a href="Parallel.html">Parallel Circuits</a></li>
+		<li><a class="active1" href="P-SC.html">Series and Parallel Circuits</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Interfacing</b></li>
+		<li><a href="Interfacing.html">Finch robot</a></li>
+
+		<li style="padding: 10px 0px 10px 7px" ><b>Digital Electronics</b></li>
+		<li><a href="NumberS.html">Numbering Systems</a></li>
+		<li><a href="LogicG.html">Logic Gates</a></li>
+		<li><a href="BooleanA.html">Boolean Algebra</a></li>
+		<li><a href="TruthT.html">Truth Tables</a></li>
+		<li><a href="Kmaps.html">K-maps</a></li>
+		<li><a href="Applications.html">Applications</a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b> Traffic Light</b></li>
+	<li><a href="TrafficL.html">Traffic Light</a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b> Web 2.0 </b></li>
+	<li><a href="HTMLandCSS.html"> HTML and CSS </a></li>
+
+	<li style="padding: 10px 0px 10px 7px" ><b>Reflections and Daily Log</b> </li>
+	<li><a href="Highlights.html"> Highlights </a></li>
+	<li><a href="Benefits.html"> Benefits </a></li>
+<br>
+	</ul>
+	</div>
+
+	<div>
+		<h1 id="heading"> <center>SERIES-PARALLEL CIRCUITS</center></h1>
+		<br>
+		<h id="subH"><b>What is Series-Parallel circuits?</b></h>
+		<p id="one">Components of an electrical circuit or electronic circuit can
+			be connected in many different ways. The two simplest of these are called
+			series and parallel and occur frequently. Components connected in series
+			are connected along a single path, so the same current flows through all
+			of the components.</p>
+		<br>
+		<center>
+		<img  src="p-sCircuit.JPG" alt="Series-Parallel" width="500" height="250" >
+	</center>
+		<p id="caption">9 resistor circuit<p>
+		<br><br><br>
+		<h id="subH"><b>Experience:</b></h>
+		<p id="one">Series-Parallel circuits was hard at first as it was a
+			mixture of series circuits and parallel circuits. The laws were mixed
+			too, so it was hard to simplify the circuit because of different laws.
+			Some questions were really straight forward and some of them were really
+			confusing, I like the confusing ones more, it was like a challenge to me.
+			The hard part in series-parallel circuits was to break the circuits after
+			it was simplified as it got confusing because there were a lot of
+			resistors. Even though I was confused I still liked circuits, I think I
+			liked this unit as it was mostly physics. I want to do
+			more circuits as in this unit we never actually found the resistance, we
+			only found voltages and currents. I made the 9 resistors circuit with
+			Edison.</p>
+
+	</div>
+
+</body>
+</html>
